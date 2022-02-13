@@ -1,0 +1,7 @@
+1.Is element of( apakah merupakan elemen)
+2.Is empty( apakah himpunan kosong)
+3.Size(berapakah ukuran himpunan
+4.Intert( menambahkan elemen pada himpunan)
+
+
+

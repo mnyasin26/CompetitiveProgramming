@@ -1,0 +1,17 @@
+16
+while ((!x.empty()))
+        {
+            re.push(make_pair(x.top().first, x.top().second));
+            x.pop();
+        while ((!re.empty())
+         {
+            cout << re.top(.first << ' ' << re.top().second << '\n';
+           re.pop(;
+          }
+(
+awdawdwadw
+awdwad
+dpdpdpd
+anjay {
+lol[ awdwa
+}
